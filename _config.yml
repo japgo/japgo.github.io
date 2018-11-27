@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "japgo"
-  avatar           : /assets/images/bio/avartar2.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/bio/AAzPOnX.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Full Stack Developer"
   location         : "Korea"
   email            : "japgo@naver.com"
