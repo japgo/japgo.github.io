@@ -1,5 +1,5 @@
 ---
-title:  OCR with OpenCV - Tesseract
+title:  OpenCV - Tesseract를 이용한 OCR ( C++ )
 layout: single
 author_profile: true
 comments: true
@@ -11,10 +11,11 @@ tags:
     - OpenCV
     - Tesseract
     - Leptonica
+    - C++
 category: OpenCV
 ---
 
-## OCR with OpenCV - Tesseract
+## OpenCV - Tesseract를 이용한 OCR ( C++ )
 
 ### 필요항목
 * Leptonica Library
