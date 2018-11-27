@@ -1,5 +1,5 @@
 ---
-title:  Start
+title:  OCR with OpenCV - Tesseract
 layout: single
 author_profile: true
 comments: true
