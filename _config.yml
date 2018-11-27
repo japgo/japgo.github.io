@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 locale                   : "ko" # "en-US" # "ko"
 title                    : "Peteryoon's DevLab"
 title_separator          : "Backend dev' daily"
-name                     : "Peter-Yoon"
-description              : "Peter's DevLab Blog."
-url                      : "https://peteryoon11.github.io"
+name                     : "japgo"
+description              : "japgo DevLab Blog."
+url                      : "https://japgo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "peteryoon11/peteryoon11.github.io"
+repository               : "japgo/japgo.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peter Yoon"
+  name             : "japgo"
   avatar           : /assets/images/bio/avartar2.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Junior Back-End Developer"
-  location         : "Anyang & Seoul, Korea"
-  email            : "yjisub11@gmail.com"
+  bio              : "Full Stack Developer"
+  location         : "Korea"
+  email            : "japgo@naver.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -113,13 +113,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "peteryoon11"
+  github           : "japgo"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "jisub-yoon-a03484135" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "japgo" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
