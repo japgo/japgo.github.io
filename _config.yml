@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "ko" # "en-US" # "ko"
-title                    : "Peteryoon's DevLab"
-title_separator          : "Backend dev' daily"
+title                    : "japgo Blog"
+title_separator          : ""
 name                     : "japgo"
-description              : "japgo DevLab Blog."
+description              : "japgo Blog"
 url                      : "https://japgo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "japgo/japgo.github.io"
@@ -29,7 +29,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : https-peteryoon11-github-io-1 # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : https-japgo-github-io-1 # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
